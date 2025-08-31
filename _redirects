@@ -1,0 +1,2 @@
+# Canonical host redirect (Cloudflare Pages)
+https://www.marlowgate.com/* https://marlowgate.com/:splat 301!
