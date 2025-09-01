@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://marlowgate.com/sitemap.xml
