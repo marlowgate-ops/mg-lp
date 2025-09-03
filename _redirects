@@ -8,3 +8,6 @@ https://www.marlowgate.com/* https://marlowgate.com/:splat 301!
 
 # Preview page demo anchor (?preview) -> jump to preview section (optional)
 /calendars/?preview /calendars/#preview 302
+# /blog をブログのサブドメインへ正規化
+/blog     https://blog.marlowgate.com        301
+/blog/*   https://blog.marlowgate.com/:splat 301
